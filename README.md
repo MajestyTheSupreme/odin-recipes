@@ -1,1 +1,1 @@
-# odin-recipes
+# im about to create a recipe website. i have leanred the basics of html and am about to demostrate how to use them to create a simple webpage.
